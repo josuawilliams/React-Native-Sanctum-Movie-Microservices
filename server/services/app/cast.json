@@ -1,0 +1,122 @@
+[
+    {
+        "MovieId": 3,
+        "name": "Elizabeth Olsen",
+        "profilePict": "https://asset.kompas.com/crops/EigMGs4Z2XmsY2uJa4b3OFzOkOM=/0x60:930x680/750x500/data/photo/2022/05/04/62723f5727b5f.jpg"
+    },
+    {   
+        "MovieId": 3,
+        "name": "Xochitl Gomez",
+        "profilePict": "https://cdn1-production-images-kly.akamaized.net/KuE-NzOpzhA8WivC18ndOryPUPM=/673x373/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4014361/original/093177400_1651742239-AP22123102387831.jpg"
+    },
+    {   
+        "MovieId": 3,
+        "name": "Benedict Cumberbatch",
+        "profilePict": "https://img.idxchannel.com/media/500/images/idx/2021/12/14/Benedict_Cumberbatch.jpg"
+    },
+    {   
+        "MovieId": 2,
+        "name": "Kaya Scodelario",
+        "profilePict": "https://m.media-amazon.com/images/M/MV5BNjk5NjE5NTczMV5BMl5BanBnXkFtZTcwODI0OTM0NA@@._V1_.jpg"
+    },
+    {   
+        "MovieId": 2,
+        "name": "Avan Jogia",
+        "profilePict": "https://cdn0-production-images-kly.akamaized.net/KJBvq3eWBJibHKE4soLM8BcxKaI=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/974014/original/079909700_1441111373-avan.jpg"
+    },
+    {   
+        "MovieId": 2,
+        "name": "Hannah John-Kamen",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hannah_John-Kamen_Ant-Man_%26_The_Wasp_premiere.jpg"
+    },
+    {   
+        "MovieId": 1,
+        "name": "Awkwafina",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Awkwafina_%28cropped%29_2.jpg"
+    },
+    {   
+        "MovieId": 1,
+        "name": "Simu Liu",
+        "profilePict": "https://asset.kompas.com/crops/kxRE7_Tm7W4ylzlkliks14wRNsY=/0x37:682x492/750x500/data/photo/2021/08/30/612c803712308.jpg"
+    },
+    {   
+        "MovieId": 1,
+        "name": "Michelle Yeoh",
+        "profilePict": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/24/2021/11/michelle-yeoh-2-gamerwk.jpg"
+    },
+    {   
+        "MovieId": 4,
+        "name": "Son Ye-jin",
+        "profilePict": "https://asset.kompas.com/crops/MnErc3ZYslFEPKQOh6zSX9fprZk=/0x0:900x600/750x500/data/photo/2020/02/17/5e4a63690b15d.jpeg"
+    },
+    {   
+        "MovieId": 4,
+        "name": "So Ji-sub",
+        "profilePict": "https://asset.kompas.com/crops/5BJdAp-2L_B3gdZ4jC0HlAPdjuM=/0x0:900x600/750x500/data/photo/2019/08/26/5d63c6785b6eb.jpeg"
+    },
+    {   
+        "MovieId": 4,
+        "name": "Park Seo-joon",
+        "profilePict": "https://cdn.timesmedia.co.id/images/2022/01/13/park-seo-joon3020078b267b2a52.jpg"
+    },
+    {   
+        "MovieId": 5,
+        "name": "Kim Tae-ri",
+        "profilePict": "https://asianwiki.com/images/3/3b/Kim_Tae-Ri-p2.jpg"
+    },
+    {   
+        "MovieId": 5,
+        "name": "Song Joong-ki",
+        "profilePict": "https://asianwiki.com/images/e/e8/Song_Joong-Ki-p002.jpeg"
+    },
+    {   
+        "MovieId": 5,
+        "name": "Kim Mu-yeol",
+        "profilePict": "https://images.fandango.com/ImageRenderer/400/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/p802668/MooYulKim-2019.jpg"
+    },
+    {   
+        "MovieId": 6,
+        "name": "Dwayne Johnson",
+        "profilePict": "https://img.okezone.com/content/2016/10/04/33/1505796/video-dwayne-johnson-ditantang-lomba-angkat-alis-YeDoGQgYKp.jpg"
+    },
+    {   
+        "MovieId": 6,
+        "name": "Jack Black",
+        "profilePict": "https://m.media-amazon.com/images/M/MV5BYTFiMWNlNmItMDRiYy00NzA4LWE5YjItZmViNWQ2NzhhOWZlXkEyXkFqcGdeQXVyMTA2Mjc5ODMy._V1_.jpg"
+    },
+    {   
+        "MovieId": 6,
+        "name": "Madison Iseman",
+        "profilePict": "https://m.media-amazon.com/images/M/MV5BOWVjZjI4YTktNDY3Ny00ZDQ4LTliMWUtYWExZmRkNWUyOGMxXkEyXkFqcGdeQXVyNDIxNzMxNTc@._V1_.jpg"
+    },
+    {   
+        "MovieId": 7,
+        "name": "Gingle Wang",
+        "profilePict": "https://asaljeplak.my.id/berita/storage/sites/2/2022/02/10-Potret-Gingle-Wang-Bintang-Film-The-Falls-dan-Till.jpg"
+    },
+    {   
+        "MovieId": 7,
+        "name": "Tseng Jing Hua",
+        "profilePict": "https://m.media-amazon.com/images/M/MV5BMjdkYmE2ZDMtOWYxMS00ZmQxLTgyMWMtNzg3NzVkYWIzZGZmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg"
+    },
+    {   
+        "MovieId": 7,
+        "name": "Fu Meng Bo",
+        "profilePict": "https://pbs.twimg.com/media/EidJ9ZzVoAETIL8.jpg"
+    },
+    {   
+        "MovieId": 8,
+        "name": "Jing Tian",
+        "profilePict": "https://wiki.d-addicts.com/images/f/ff/Jing_Tian.jpg"
+    },
+    {   
+        "MovieId": 8,
+        "name": "Cailee Spaeny",
+        "profilePict": "https://www.hollywoodreporter.com/wp-content/uploads/2019/06/cailee_spaeny-getty-h_2019.jpg"
+    },
+    {   
+        "MovieId": 8,
+        "name": "Rinko Kikuchi",
+        "profilePict": "https://thumbs.dreamstime.com/b/rinko-kikuchi-los-angeles-premiere-pacific-rim-held-dolby-theatre-hollywood-july-los-angeles-california-56218799.jpg"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "title": "SHANG-CHI",
+        "slug": "SHANG-CHI-Legend-Of-Ten-Rings-Rings",
+        "synopsis": "Thousands of years ago, Xu Wenwu finds the Ten Rings, ten mystical weapons that grant their user immortality and great power. Wenwu amasses an army of warriors called the Ten Rings and conquers many kingdoms and topples governments throughout history.",
+        "trailerURL": "https://www.youtube.com/embed/8YjFbMbfXaQ",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/au_marvel_shang-chiandthelegendofthetenrings_payoff_mov_cc4c0527.jpeg",
+        "rating": 9,
+        "GenreId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Resident Evil: Welcome to Raccoon City",
+        "slug": "Resident-Evil:-Welcome-to-Raccoon-City",
+        "synopsis": "Claire and her brother Chris get caught in a zombie outbreak in the dying Raccoon City. They must band together with others to survive and uncover the truth about the experiments held in the city",
+        "trailerURL": "https://www.youtube.com/embed/IQqqAWMIIAQ",
+        "imgURL": "https://cineverse.id/wp-content/uploads/2021/12/cover-32.jpg",
+        "rating": 5,
+        "GenreId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "slug": "Doctor-Strange-in-the-Multiverse-of-Madness",
+        "synopsis": "Dr Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for his team to handle",
+        "trailerURL": "https://www.youtube.com/embed/aWzlQ2N6qqg",
+        "imgURL": "https://cdn-asset.jawapos.com/wp-content/uploads/2022/05/Doctor-Strange-IG-Doctor-Strange.jpg",
+        "rating": 10,
+        "GenreId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Be With You",
+        "slug": "Be-With-You",
+        "synopsis": "A woman dies, leaving her husband and young son, but during the rain season, she comes back to life and has no memories. The three get together and are happy again, but she has to go back when the rain season ends.",
+        "trailerURL": "https://www.youtube.com/embed/_6tJmGxGaK4",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BYzA3NjY4ZjUtMjQ3ZC00N2NmLTk2OTktODllODk0NGRmNjQyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+        "rating": 8,
+        "GenreId": 3,
+        "UserId": 1
+    },
+    {
+        "title": "Space Sweepers",
+        "slug": "Space-Sweepers",
+        "synopsis": "After snatching a crashed space shuttle in the latest debris chase, Spaceship Victory's crew members find a 7-year-old girl inside. They realise that she's the humanlike robot wanted by UTS Space Guards, and decide to demand a ransom in exchange.",
+        "trailerURL": "https://www.youtube.com/embed/H1WYnJF1Pwo",
+        "imgURL": "https://picfiles.alphacoders.com/417/417198.jpg",
+        "rating": 7,
+        "GenreId": 5,
+        "UserId": 1
+    },
+    {
+        "title": "Jumanji: The Next Level",
+        "slug": "Jumanji-The-Next-Level",
+        "synopsis": "When Spencer goes missing, the gang returns to Jumanji to travel unexplored territories and help their friend escape the world's most dangerous game.",
+        "trailerURL": "https://www.youtube.com/embed/rBxcF-r9Ibs",
+        "imgURL": "https://img01.mgo-images.com/image/thumbnail/v2/content/MMV3FFCD4C626E61D79BAC131C4E65975E42.jpeg",
+        "rating": 8,
+        "GenreId": 2,
+        "UserId": 1
+    },
+    {
+        "title": "Detention",
+        "slug": "Detention",
+        "synopsis": "In 1962 Taiwan, a group of students join an underground book club hosted by their counselor. One day, the counselor vanishes into thin air, and the student's search for him takes them to a realm dominated by ghosts and spirits.",
+        "trailerURL": "https://www.youtube.com/embed/e7BBxVtbFTs",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BZTRiYTVkZDktZWNiZS00MGI4LTk2NGUtNjBlMWZkN2ZhN2E0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+        "rating": 7,
+        "GenreId": 4,
+        "UserId": 1
+    },
+    {
+        "title": "Pacific Rim Uprising",
+        "slug": "Pacific-Rim-Uprising",
+        "synopsis": "Jake Pentecost, who had left his Jaeger training midway, gets a chance to live up to his father's legacy as he teams up with his estranged sister and former co-pilot to stop a new Kaiju threat.",
+        "trailerURL": "https://www.youtube.com/embed/8BAhwgjMvnM",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_.jpg",
+        "rating": 9,
+        "GenreId": 1,
+        "UserId": 1
+    }
+]

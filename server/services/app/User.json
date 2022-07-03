@@ -1,0 +1,35 @@
+[
+    {
+        "username": "jojo",
+        "email" : "jojo@email.com",
+        "password" : "12345",
+        "role" : "admin",
+        "phoneNumber" : "+123457878782",
+        "address" : "jalan asing kali"
+
+    },
+    {   
+        "username": "aku",
+        "email" : "aku@email.com",
+        "password" : "12345",
+        "role" : "staff",
+        "phoneNumber" : "+083943732",
+        "address" : "jalan asing besok"
+    },
+    {   
+        "username": "aka",
+        "email" : "aka@email.com",
+        "password" : "12345",
+        "role" : "customer",
+        "phoneNumber" : "+0839343732",
+        "address" : "jalan asing besok"
+    },
+    {   
+        "username": "aki",
+        "email" : "aki@email.com",
+        "password" : "12345",
+        "role" : "customer",
+        "phoneNumber" : "+0839435645732",
+        "address" : "jalan asing sana"
+    }
+]
